@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601276229600",
+    "project_id": "hyper-link-test",
+    "storage_bucket": "hyper-link-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601276229600:android:625d88757b24e585c3ad85",
+        "android_client_info": {
+          "package_name": "kr.hyperlink.app.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601276229600-6esuiokc0164kdfv7hfavbuev9s78ls5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPVZL0mb-l8uDGcvoIqYIJ4zXzLTAj0aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601276229600-6esuiokc0164kdfv7hfavbuev9s78ls5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
