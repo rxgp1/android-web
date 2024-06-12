@@ -29,6 +29,7 @@
 2. 각종 앱 아이콘, 앱 스플래시 이미지를 교체한다. 
 3. utils/WebViewUtil 클래스의 Config 부분의 상수를 확인, 상수의 BASE_URL을 사이트에 맞게 수정 
 4. utils/WebViewUtil 클래스의 Config 부분의 상수를 확인, 상수의 권한 처리를 사이트에 맞게 수정
+5. google-service.json파일을 패키지명으로 맞추어 등록
 
 
 
